@@ -3,6 +3,7 @@
 
 """
 # Define la función (procedimiento) con 4 parámetros
+
 def generar_reporte(nombre, apellido, edad, lista_notas):
     """
     Función que genera un reporte de notas a partir de la información
@@ -46,4 +47,8 @@ if __name__ == "__main__":
     # 2. "García López" -> Apellido del estudiante
     # 3. 25 -> Edad del estudiante
     # 4. mi_lista_notas -> Lista con las notas obtenidas
+
     generar_reporte("María Elizabeth", "García López", 25, mi_lista_notas)
+
+
+
